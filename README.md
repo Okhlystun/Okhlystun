@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Khlystun
 - 👀 I’m interested in Java-programming
-- 🌱 I’m currently learning Spring framework
+- 🌱 I’m currently studying Java-based technologies and Spring framework
 - 💞️ I’m looking to collaborate on Java projects with Spring
 - 📫 How to reach me: okhlystun@gmail.com
 
